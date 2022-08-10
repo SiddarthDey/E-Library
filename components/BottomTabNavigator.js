@@ -12,10 +12,10 @@ export default class BottomTabNavigator extends Component {
     return (
       <NavigationContainer>
         <Tab.Navigator>
-          {/* 
+           
             <TabScreen name="Ride" component={RideScreen} />
             <TabScreen name="Ride History" component={RideHistoryScreen} />
-          */}
+          
 
           {/* 
             <Tab.Screen name="Ride" />
